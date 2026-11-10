@@ -1,0 +1,17 @@
+catering\businesslogic\event\EventTest$StaticLoaders.class
+catering\businesslogic\event\EventTest$Aggregate.class
+catering\businesslogic\menu\MenuManagerTest.class
+catering\businesslogic\menu\MenuManagerTest$ChooseMenu.class
+catering\businesslogic\menu\MenuManagerTest$ChooseMenuForCopy.class
+catering\businesslogic\menu\MenuManagerTest$DefineSection.class
+catering\businesslogic\event\EventTest.class
+catering\businesslogic\menu\MenuManagerTest$MoveSection.class
+catering\businesslogic\menu\MenuManagerTest$InsertItem.class
+catering\businesslogic\menu\MenuManagerTest$DeleteMenu.class
+catering\businesslogic\menu\MenuTest.class
+catering\businesslogic\event\EventManagerTest$ModifyParticipants.class
+catering\businesslogic\event\EventManagerTest.class
+catering\businesslogic\menu\MenuManagerTest$CreateMenu.class
+catering\businesslogic\kitchen\SummarySheetTest.class
+catering\businesslogic\kitchen\KitchenTaskManagerTest.class
+catering\businesslogic\event\EventManagerTest$CreateManageAndCloseEvent.class
